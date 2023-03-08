@@ -1,0 +1,39 @@
+{
+  "movies": [
+
+    {
+      "id": 1,
+      "name": "Dhriyam",
+      "actor": "mohanlal",
+      "actress": "meena",
+      "director": "ak",
+      "year": "2016",
+      "camera": "hjj",
+      "producer": "ashirvad",
+      "language": "malayalam"
+     
+    },
+    {
+      "id": 2,
+      "name": "ABCD",
+      "actor": "DQ",
+      "actress": "Amritha",
+      "director": "hj",
+      "year": "2014",
+      "camera": "jkj",
+      "producer": "star",
+      "language": "malayalam"
+    },
+    {
+      "id": 3,
+      "name": "2020",
+      "actor": "multistar",
+      "actress": "many",
+      "director": "mkm",
+      "year": "2010",
+      "camera": "huh",
+      "producer": "dilep",
+      "language": "malayalam"
+    }
+  ]
+}
